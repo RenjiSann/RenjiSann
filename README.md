@@ -2,7 +2,10 @@
 
 My name's Dorian and I'm a CS student currently studying @ [Epita](https://www.epita.fr) in Rennes, France. 
 
-Member of [Prologin <img src="prologin_logo.png" width="20" height="20">](https://prologin.org)
+Member of [Prologin](https://prologin.org) and [Girls Can Code !](https://gcc.prologin.org)
+
+<img src="prologin_logo.png" width="40" height="40">
+<img src="gcc_logo.png" width="40" height="40">
 
 ---
 
