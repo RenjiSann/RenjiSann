@@ -2,9 +2,13 @@
 
 My name's Dorian and I'm a CS student currently studying @ [Epita](https://www.epita.fr) in Rennes, France. 
 
-Member of [Prologin](https://prologin.org) and [Girls Can Code !](https://gcc.prologin.org)
+Member of the French National Programming Contest [Prologin](https://prologin.org) 
 
-<img src="prol_gcc_logo.png" height="40">
+<img src="prologin_logo.png" height="40">
+
+Member of [Girls Can Code !](https://gcc.prologin.org), which aims to make young girls discover IT and programming
+
+<img src="gcc_logo.png" height="40">
 
 ---
 
