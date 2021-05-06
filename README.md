@@ -36,7 +36,7 @@ Implementation of a multi-layer neural network including backpropagation learnin
 
 Creation of a website similar to [OpenFoodFacts](https://openfoodfacts.org) but oriented on products' packaging
 
-[![Repo ](https://github-readme-stats.vercel.app/api/pin/?username=ThePlotTeam&repo=GreenDataProject&bg_color=1d2229&hide_border=true&text_color=c9d1d9)](https://github.com/Tagueo/icue-ambilight)
+[![Repo ](https://github-readme-stats.vercel.app/api/pin/?username=ThePlotTeam&repo=GreenDataProject&bg_color=1d2229&hide_border=true&text_color=c9d1d9)](https://github.com/ThePlotTeam/GreenDataProject)
 
 
 ### Associations
