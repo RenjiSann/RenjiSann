@@ -4,8 +4,7 @@ My name's Dorian and I'm a CS student currently studying @ [Epita](https://www.e
 
 Member of [Prologin](https://prologin.org) and [Girls Can Code !](https://gcc.prologin.org)
 
-<img src="prologin_logo.png" width="40" height="40">
-<img src="gcc_logo.png" width="40" height="40">
+<img src="prol_gcc_logo.png" height="40">
 
 ---
 
