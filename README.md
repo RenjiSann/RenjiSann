@@ -1,3 +1,6 @@
+![Banner](banner.png)
+
+
 # Welcome to my profile ! 👋
 
 My name's Dorian and I'm a CS student currently studying @ [Epita](https://www.epita.fr) in Rennes, France. 
