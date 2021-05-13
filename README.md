@@ -1,4 +1,4 @@
-![Banner](banner.png)
+[![Banner](banner.png)](https://github.com/RenjiSann)
 
 
 # Welcome to my profile ! 👋
