@@ -59,5 +59,5 @@ Member of [Girls Can Code !](https://gcc.prologin.org), which aims to make young
 [
 <img src="https://github-readme-stats.vercel.app/api?username=RenjiSann&show_icons=true&count_private=true&bg_color=1d2229&hide_border=true&text_color=c9d1d9">](https://github.com/RenjiSann)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=RenjiSann)](https://github.com/RenjSann)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenjiSann&layout=compact)](https://github.com/RenjiSann)
 
