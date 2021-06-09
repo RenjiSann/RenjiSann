@@ -8,7 +8,7 @@ My name's Dorian and I'm a CS student currently studying @ [Epita](https://www.e
 ### Hobbies and Skills 🎯
 ---
 
-I love:
+#### I love:
 - Math 📚 
 - AI 🧠 
 - Algorithms 💻
@@ -17,7 +17,7 @@ I love:
 - Sailing ⛵
 - Anything that is ocean-related 🌊
 
-I mostly use:
+#### I mostly use:
 - Python for prototyping, coding constest, etc...
 - C/C++ for bigger projects
 - OCaml for teaching freshmen basics of recursion programming (soon)
