@@ -22,7 +22,13 @@ My name's Dorian and I'm a CS student currently studying @ [Epita](https://www.e
 ### Projects
 ---
 
-1. **OCR Project**
+1. **42sh**
+> Language : `C`
+
+Four weeks school project, implementing a POSIX shell in C.
+(Private because school subject)
+
+2. **OCR Project**
 > Language : `C`
 
 Implementation of a multi-layer neural network including backpropagation learning algorithm, recognizing printed characters
