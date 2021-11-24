@@ -1,6 +1,3 @@
-[![Banner](banner.png)](https://github.com/RenjiSann)
-
-
 # Welcome to my profile ! 👋
 
 My name's Dorian and I'm a CS student currently studying @ [Epita](https://www.epita.fr) in Rennes, France. 
@@ -31,14 +28,6 @@ My name's Dorian and I'm a CS student currently studying @ [Epita](https://www.e
 Implementation of a multi-layer neural network including backpropagation learning algorithm, recognizing printed characters
 (Private because school subject)
 
-2. **GreenData**
-> Language : `Python` | Framework : *Django*
-
-Creation of a website similar to [OpenFoodFacts](https://openfoodfacts.org) but oriented on products' packaging
-
-[![Repo ](https://github-readme-stats.vercel.app/api/pin/?username=ThePlotTeam&repo=GreenDataProject&bg_color=1d2229&hide_border=true&text_color=c9d1d9)](https://github.com/ThePlotTeam/GreenDataProject)
-
-
 ### Associations
 ---
 
@@ -49,9 +38,6 @@ Member of the French National Programming Contest [Prologin](https://prologin.or
 Member of [Girls Can Code !](https://gcc.prologin.org), which aims to make young girls discover IT and programming
 
 <img src="gcc_logo.png" height="40">
-
-
-
 
 ### Stats
 ---
