@@ -17,7 +17,7 @@ My name's Dorian and I'm a CS student currently studying @ [Epita](https://www.e
 #### I mostly use:
 - Python for prototyping, coding constest, etc...
 - C/C++ for bigger projects
-- OCaml for teaching freshmen basics of recursive programming (soon)
+- OCaml for teaching freshmen basics of recursive programming
 
 ### Projects
 ---
