@@ -1,6 +1,7 @@
-# Welcome to my profile ! 👋
+# Hi ! 👋
 
 My name's Dorian and I'm a CS student currently studying @ [Epita](https://www.epita.fr) in Rennes, France. 
+*Currently learning Rust*
 
 ### Hobbies and Skills 🎯
 ---
@@ -14,7 +15,11 @@ My name's Dorian and I'm a CS student currently studying @ [Epita](https://www.e
 - Sailing ⛵
 - Anything that is ocean-related 🌊
 
-#### I mostly use:
+#### Languages I Use
+
+<img src="python_logo.png" height="40">
+<img src="c_logo.png" height="40">
+<img src="rust_logo.png" height="40">
 - Python for prototyping, coding constest, etc...
 - C/C++ for bigger projects
 - OCaml for teaching freshmen basics of recursive programming
