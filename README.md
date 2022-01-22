@@ -8,8 +8,7 @@ My name's Dorian and I'm a CS student currently studying @ [Epita](https://www.e
 
 #### I love:
 - Math 📚 
-- AI 🧠 
-- Algorithms 💻
+- Algorithmic 💻
 - Robotics 🤖
 - Embedded systems ✈
 - Sailing ⛵
