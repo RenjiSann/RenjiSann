@@ -25,7 +25,7 @@ My name's Dorian and I'm a CS student currently studying @ [Epita](https://www.e
 > Language : `C`
 
 Four weeks school project, implementing a POSIX shell in C.
-(Private because school subject)
+
 
 2. **OCR Project**
 > Language : `C`
