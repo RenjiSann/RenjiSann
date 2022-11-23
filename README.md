@@ -1,13 +1,12 @@
 # Hi ! 👋
 
-My name's Dorian and I'm a CS student currently studying @ [Epita](https://www.epita.fr) in Rennes, France. 
-*Currently learning Rust*
+My name's Dorian and I'm a CS student currently studying @ [Epita](https://www.epita.fr) in Rennes, France.
 
 ### Hobbies and Skills 🎯
 ---
 
 #### I love:
-- Math 📚 
+- Math 📚
 - Algorithmic 💻
 - Robotics 🤖
 - Embedded systems ✈
@@ -36,7 +35,7 @@ Implementation of a multi-layer neural network including backpropagation learnin
 ### Associations
 ---
 
-Member of the French National Programming Contest [Prologin](https://prologin.org) 
+Member of the French National Programming Contest [Prologin](https://prologin.org)
 
 <img src="prologin_logo.png" height="40">
 
