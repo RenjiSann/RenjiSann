@@ -1,17 +1,17 @@
 # Hi ! 👋
 
-My name's Dorian and I'm a CS student currently studying @ [Epita](https://www.epita.fr) in Rennes, France.
+The name's Dorian and I'm a CS student currently studying @ EPITA Paris, France.
 
 ### Hobbies and Skills 🎯
 ---
 
 #### I love:
-- Math 📚
-- Algorithmic 💻
-- Robotics 🤖
 - Embedded systems ✈
 - Sailing ⛵
 - Anything that is ocean-related 🌊
+- Math 📚
+- Algorithmic 💻
+- Robotics 🤖
 
 #### Languages I Use
 
@@ -39,7 +39,7 @@ Member of the French National Programming Contest [Prologin](https://prologin.or
 
 <img src="prologin_logo.png" height="40">
 
-Member of [Girls Can Code !](https://gcc.prologin.org), which aims to make young girls discover IT and programming
+Member of [Girls Can Code !](https://girlscancode.fr), which aims to make young girls discover IT and programming
 
 <img src="gcc_logo.png" height="40">
 
