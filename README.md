@@ -1,21 +1,22 @@
 # Hi ! 👋
 
-The name's Dorian and I'm a CS student currently studying @ EPITA Paris, France.
+The name's Dorian and I'm a student at EPITA Paris, France.
 
 ### Hobbies and Skills 🎯
 ---
 
 #### I love:
-- Embedded systems ✈
+- Embedded systems 💻
 - Sailing ⛵
 - Anything that is ocean-related 🌊
-- Math 📚
-- Algorithmic 💻
-- Robotics 🤖
+- Maths  📚
+- Algorithmics 💻
 
-#### Languages I Use
+#### Languages
 
 <img src="python_logo.png" height="40"> <img src="c_logo.png" height="40"> <img src="rust_logo.png" height="40">
+
+I like embedded, low-level and tooling stuff. If it has an LED and a datasheet, then I want to know how it works.
 
 ### Projects
 ---
@@ -32,7 +33,7 @@ Four weeks school project, implementing a POSIX shell in C.
 Implementation of a multi-layer neural network including backpropagation learning algorithm, recognizing printed characters
 (Private because school subject)
 
-### Associations
+### Volunteering
 ---
 
 Member of the French National Programming Contest [Prologin](https://prologin.org)
