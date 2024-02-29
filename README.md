@@ -19,12 +19,6 @@ The name's Dorian and I'm a student at EPITA Paris, France.
 I like embedded, low-level and tooling stuff. If it has an LED and a datasheet, then I want to know how it works.
 Rust is the way.
 
-2. **OCR Project**
-> Language : `C`
-
-Implementation of a multi-layer neural network including backpropagation learning algorithm, recognizing printed characters
-(Private because school subject)
-
 ### Volunteering
 ---
 
