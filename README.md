@@ -1,6 +1,7 @@
 # Hi ! 👋
 
-The name's Dorian and I'm a student at EPITA Paris, France.
+The name's Dorian and I've graduated from EPITA in 2024.
+Now working at Adacore on code coverage solutions ofr Ada/C/C++
 
 ### Hobbies and Skills 🎯
 ---
